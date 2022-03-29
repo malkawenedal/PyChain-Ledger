@@ -5,8 +5,8 @@
 
 
 ## Files
-* Pychain-Ledger ![](https://github.com/malkawenedal/PyChain-Ledger/blob/main/pychain.py)
-* Images ![](https://github.com/malkawenedal/PyChain-Ledger/tree/main/Images)
+* Pychain-Ledger ![](pychain.py)
+* Images ![](Images)
 
 ### Step 1: Create a Record Data Class
 
