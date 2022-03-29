@@ -216,7 +216,7 @@ st.sidebar.write(selected_block)
 if st.button("Validate Chain"):
     st.write(pychain.is_valid())
 
-################################################################################
+###################################################################################
 # Step 4:
 # Test the PyChain Ledger by Storing Records
 
