@@ -46,10 +46,14 @@ import hashlib
 # Note that you’ll use this new `Record` class as the data type of your `record` attribute in the next section.
 
 
-# @TODO
+
 # Create a Record Data Class that consists of the `sender`, `receiver`, and
 # `amount` attributes
-# YOUR CODE HERE
+@dataclass
+class Record:
+    sender:str
+    reciver:str
+    amount:float 
 
 
 ################################################################################
